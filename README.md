@@ -28,8 +28,9 @@ Fique à vontade para explorar meus projetos no GitHub e entre em contato se voc
 
 Se você estiver interessado em entrar em contato ou discutir oportunidades de emprego, fique à vontade para me enviar uma mensagem:
 
-- Email: [iuri.soares.g6@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/iuri-soares-82a4aa291/]
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:iuri.soares.g6@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/iuri-soares-82a4aa291/)
 
 Vamos juntos explorar novas oportunidades e desafios ! 
 
