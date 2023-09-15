@@ -2,7 +2,7 @@
 
 Olá! Sou Iuri Soares, estudante de Economia com paixão por tecnologia, análise de dados e desenvolvimento web. Minha expertise em Python abrange bibliotecas como pandas para manipulação de dados, e numpy para cálculos matemáticos. Além disso, minha proficiência em JavaScript me permite criar interfaces interativas e dinâmicas, expandindo meu potencial como desenvolvedor.
 
-📊 Análise de Dados: Tenho a habilidade de unir minhas aptidões em Python, SQL, Banco de Dados e Excel para extrair o máximo de informações a partir dos dados. Essa combinação me permite não apenas manipular e consultar os dados de forma eficaz, mas também criar visualizações que adicionam valor significativo aos projetos.
+📊 Análise de Dados: Tenho a habilidade de unir minhas aptidões em Python, SQL e Excel para extrair o máximo de informações a partir dos dados. Essa combinação me permite não apenas manipular e consultar os dados de forma eficaz, mas também criar visualizações que adicionam valor significativo aos projetos.
 
 💼 Desenvolvimento Web: Criação de páginas com HTML, estilização com CSS e interatividade com JavaScript.
 
