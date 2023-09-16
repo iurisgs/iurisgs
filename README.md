@@ -18,9 +18,9 @@ Olá! Sou Iuri Soares, estudante de Economia com paixão por tecnologia, anális
 
 Alguns dos meus projetos mais recentes incluem:
 
-- [Analise de 3 ações x IBOV](https://github.com/iurisgs/Segundo-Projeto-de-Econometria-I): [O projeto é uma análise das relações entre três ações e o índice IBOV (Ibovespa). Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das ações em relação ao mercado.]
-- [Odin Recipes](https://github.com/iurisgs/odin-recipes): [O projeto 'Odin Recipes' é uma iniciativa de desenvolvimento de receitas utilizando HTML e CSS, demonstrando habilidades que abrangem desde a estruturação básica até a criação de layouts flexíveis com o uso do flexbox. [Site](https://iurisgs.github.io/odin-recipes/)]
-- [Odin Landing Page](https://github.com/iurisgs/Odin-LandingPage): [Durante o desenvolvimento do projeto, dominei seletores, estruturação HTML semântica, aplicação de estilos CSS e layouts flexíveis com flexbox. [Site](https://iurisgs.github.io/Odin-LandingPage/)]
+- [Analise de 3 ações x IBOV](https://github.com/iurisgs/Segundo-Projeto-de-Econometria-I): O projeto é uma análise das relações entre três ações e o índice IBOV (Ibovespa). Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das ações em relação ao mercado. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Segundo-Projeto-de-Econometria-I/).
+- [Odin Recipes](https://github.com/iurisgs/odin-recipes): O projeto 'Odin Recipes' é uma iniciativa de desenvolvimento de receitas utilizando HTML e CSS, demonstrando habilidades que abrangem desde a estruturação básica até a criação de layouts flexíveis com o uso do flexbox. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/odin-recipes/)
+- [Odin Landing Page](https://github.com/iurisgs/Odin-LandingPage): Durante o desenvolvimento do projeto, dominei seletores, estruturação HTML semântica, aplicação de estilos CSS e layouts flexíveis com flexbox. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Odin-LandingPage/)
 
 Fique à vontade para explorar meus projetos no GitHub e entre em contato se você estiver interessado em colaborar ou discutir oportunidades! 👋
 
