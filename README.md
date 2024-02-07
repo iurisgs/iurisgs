@@ -1,6 +1,7 @@
 ## Projetos
 
 Alguns dos meus projetos mais recentes incluem:
+- [Simulação Monte Carlo](https://github.com/iurisgs/monte-carlo/): O projeto é uma análise de preços futuros, da ação WEGE3, utilizando Monte Carlo. Envolve a utilização de dados financeiros e técnicas estatísticas e de machine learning para avaliar possíveis cenários futuros, e também para se chegar em conclusões finais.
 - [Projeto - Power BI](https://github.com/iurisgs/power_bi-project): Projeto final, do curso de Power BI do FreeCodeCamp. O objetivo deste trabalho é realizar uma visualização de dados, utilizando Power BI. Com tratamento de dados via Power Query.
 - [Analise de carteira de investimentos](https://iurisgs.github.io/carteira-de-investimentos/): O projeto é uma análise das uma carteira de investimento diversificada contra uma carteira concentrada. Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das 2 carteiras, e também para se chegar em conclusões finais.
 - [Analise de 3 ações x IBOV](https://github.com/iurisgs/Segundo-Projeto-de-Econometria-I): O projeto é uma análise das relações entre três ações e o índice IBOV (Ibovespa). Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das ações em relação ao mercado. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Segundo-Projeto-de-Econometria-I/).
