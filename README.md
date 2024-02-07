@@ -1,3 +1,14 @@
+## Projetos
+
+Alguns dos meus projetos mais recentes incluem:
+- [Projeto - Power BI](https://github.com/iurisgs/power_bi-project): Projeto final, do curso de Power BI do FreeCodeCamp. O objetivo deste trabalho é realizar uma visualização de dados, utilizando Power BI. Com tratamento de dados via Power Query.
+- [Analise de carteira de investimentos](https://iurisgs.github.io/carteira-de-investimentos/): O projeto é uma análise das uma carteira de investimento diversificada contra uma carteira concentrada. Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das 2 carteiras, e também para se chegar em conclusões finais.
+- [Analise de 3 ações x IBOV](https://github.com/iurisgs/Segundo-Projeto-de-Econometria-I): O projeto é uma análise das relações entre três ações e o índice IBOV (Ibovespa). Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das ações em relação ao mercado. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Segundo-Projeto-de-Econometria-I/).
+- [Odin Recipes](https://github.com/iurisgs/odin-recipes): O projeto 'Odin Recipes' é uma iniciativa de desenvolvimento de receitas utilizando HTML e CSS, demonstrando habilidades que abrangem desde a estruturação básica até a criação de layouts flexíveis com o uso do flexbox. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/odin-recipes/)
+- [Odin Landing Page](https://github.com/iurisgs/Odin-LandingPage): Durante o desenvolvimento do projeto, dominei seletores, estruturação HTML semântica, aplicação de estilos CSS e layouts flexíveis com flexbox. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Odin-LandingPage/)
+
+Fique à vontade para explorar meus projetos no GitHub e entre em contato se você estiver interessado em colaborar ou discutir oportunidades! 👋
+
 ## Sobre Mim
 
 Olá! Sou Iuri Soares, estudante de Economia com paixão por tecnologia, análise de dados e desenvolvimento web. Minha expertise em Python abrange bibliotecas como pandas para manipulação de dados, e numpy para cálculos matemáticos. Além disso, minha proficiência em JavaScript me permite criar interfaces interativas e dinâmicas, expandindo meu potencial como desenvolvedor.
@@ -13,17 +24,6 @@ Olá! Sou Iuri Soares, estudante de Economia com paixão por tecnologia, anális
 📚 Sede de Conhecimento: Estou constantemente buscando aprimorar minhas habilidades e aceitar desafios estimulantes.
 
 🌐 Fluente em Inglês, possibilitando colaboração em equipes internacionais e acesso a recursos globais.
-
-## Projetos
-
-Alguns dos meus projetos mais recentes incluem:
-
-- [Analise de carteira de investimentos](https://iurisgs.github.io/carteira-de-investimentos/): O projeto é uma análise das uma carteira de investimento diversificada contra uma carteira concentrada. Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das 2 carteiras, e também para se chegar em conclusões finais.
-- [Analise de 3 ações x IBOV](https://github.com/iurisgs/Segundo-Projeto-de-Econometria-I): O projeto é uma análise das relações entre três ações e o índice IBOV (Ibovespa). Envolve a utilização de dados financeiros e técnicas estatísticas para avaliar o desempenho das ações em relação ao mercado. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Segundo-Projeto-de-Econometria-I/).
-- [Odin Recipes](https://github.com/iurisgs/odin-recipes): O projeto 'Odin Recipes' é uma iniciativa de desenvolvimento de receitas utilizando HTML e CSS, demonstrando habilidades que abrangem desde a estruturação básica até a criação de layouts flexíveis com o uso do flexbox. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/odin-recipes/)
-- [Odin Landing Page](https://github.com/iurisgs/Odin-LandingPage): Durante o desenvolvimento do projeto, dominei seletores, estruturação HTML semântica, aplicação de estilos CSS e layouts flexíveis com flexbox. Você pode conferir os resultados no [site correspondente](https://iurisgs.github.io/Odin-LandingPage/)
-
-Fique à vontade para explorar meus projetos no GitHub e entre em contato se você estiver interessado em colaborar ou discutir oportunidades! 👋
 
 ## Contato
 
